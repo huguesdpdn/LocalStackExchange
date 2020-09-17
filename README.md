@@ -18,6 +18,7 @@ Exemple:
 ## Requierements
 You will need at least:
 * An internet connection (just for the downloading part)
+* An Unix OS (not working on Windows, not even using WSL)
 * Stackoverflow only: 8 GB of RAM and 1 TB storage drive
 * Other servers sites: 4 GB of RAM and 500 GB storage drive
 
@@ -51,8 +52,7 @@ downloadInstallDeploy.sh
 ```
 
 ## Advanced usage (NOT part of the installation chapter)
-You can use the `--clean` option to restart from scratch.
-I will remove all download, unzipped files, HTML files, databases, and launch jobs. Use it only if you are sure that you want to reset the whole machine: 
+You can use the `--clean` option to restart from scratch. It will remove all download, unzipped files, HTML files, databases, and launch jobs. Use it only if you are sure that you want to reset the whole machine: 
 ```bash
 downloadInstallDeploy.sh --clean
 ```
