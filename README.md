@@ -19,8 +19,9 @@ Exemple:
 You will need at least:
 * An internet connection (just for the downloading part)
 * An Unix OS (not working on Windows, not even using WSL)
-* Stackoverflow only: 8 GB of RAM and 1 TB storage drive
-* Other servers sites: 4 GB of RAM and 500 GB storage drive
+* A file system that can accept up to 4 billions files in a single directory
+* For Stackoverflow only: 8 GB of RAM and 1 TB storage drive
+* For Other servers sites: 4 GB of RAM and 500 GB storage drive
 
 ## Installation
 
